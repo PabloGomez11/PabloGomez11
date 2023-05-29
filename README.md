@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning application development
 - 📫 How to reach me: gomez.beltran.pablo@alumnat.copernic.cat
 
-##SKILLS
+## SKILLS
 
 
 
